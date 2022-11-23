@@ -2288,7 +2288,7 @@ input, select, textarea {
 		.icon.brands:before {
 			font-family: 'Font Awesome 5 Brands';
 		}
-
+		
 /* List */
 
 	ol.default {
@@ -3299,4 +3299,16 @@ input, select, textarea {
 					display: none;
 				}
 
+	}
+
+
+
+
+
+
+	/*********************MY CSS*****************************/
+	#chessLogo {
+		height: 50%;
+		width: 50%;
+		position: relative;
 	}
