@@ -3312,3 +3312,11 @@ input, select, textarea {
 		width: 50%;
 		position: relative;
 	}
+
+	#profilepic {
+		margin-left: auto;
+		margin-right: auto;
+		position: relative;
+		height: 50%;
+		width: 50%;
+	}
